@@ -1,0 +1,44 @@
+﻿<Window x:Class="BMI_Calculator_WPF.Feet"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BMI_Calculator_WPF"
+        mc:Ignorable="d"
+        Title="Feet" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <!--TextBlock-->
+        <TextBlock Text="Enter your height in feet and weight in pounds."
+                   Height="60" Width="800" HorizontalAlignment="Center"
+                   VerticalAlignment="Top" Margin="0,90,0,0"
+                   TextAlignment="Center" FontSize="30"/>
+        <TextBlock Text="Feet" VerticalAlignment="Center"
+                   HorizontalAlignment="Center" Margin="0,0,200,90"
+                   FontSize="16"/>
+        <TextBlock Text="Pounds" VerticalAlignment="Center"
+                   HorizontalAlignment="Center" Margin="200,0,0,90"
+                   FontSize="16"/>
+
+        <!--TextBox-->
+        <TextBox Name="HeightFeet" Height="60" Width="120"
+                 Margin="0,0,200,0" BorderBrush="Black"
+                 FontSize="40"/>
+        <TextBox Name="WeightPounds" Height="60" Width="120"
+                 Margin="200,0,0,0" BorderBrush="Black"
+                 FontSize="40"/>
+        
+        <!--Buttons-->
+        <Button Name="Calculate" Content="Calculate"
+                Width="120" Height="60" HorizontalAlignment="Center"
+                VerticalAlignment="Center" Margin="0,200,0,0"
+                FontSize="20" Click="Calculate_Click"/>
+        
+        <!--Sliders-->
+        <Slider Name="FeetsFeetPage" Height="20" Width="200" 
+                Margin="0,100,250,0" Maximum="10"
+                ValueChanged="FeetsFeetPage_ValueChanged"/>
+        <Slider Name="PoundsFeetPage" Height="20" Width="200" 
+                Margin="250,100,0,0" Maximum="1500"
+                ValueChanged="PoundsFeetPage_ValueChanged"/>
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator\BMI Calculator\bin\Debug\netcoreapp3.1\BMI Calculator.exe
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator\BMI Calculator\bin\Debug\netcoreapp3.1\BMI Calculator.deps.json
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator\BMI Calculator\bin\Debug\netcoreapp3.1\BMI Calculator.runtimeconfig.json
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator\BMI Calculator\bin\Debug\netcoreapp3.1\BMI Calculator.runtimeconfig.dev.json
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator\BMI Calculator\bin\Debug\netcoreapp3.1\BMI Calculator.dll
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator\BMI Calculator\bin\Debug\netcoreapp3.1\BMI Calculator.pdb
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.csprojAssemblyReference.cache
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.AssemblyInfoInputs.cache
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.AssemblyInfo.cs
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.csproj.CoreCompileInputs.cache
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.dll
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.pdb
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.genruntimeconfig.cache

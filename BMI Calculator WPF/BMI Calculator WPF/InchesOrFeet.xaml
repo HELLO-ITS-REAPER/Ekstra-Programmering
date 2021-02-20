@@ -1,0 +1,22 @@
+﻿<Window x:Class="BMI_Calculator_WPF.InchesOrFeet"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BMI_Calculator_WPF"
+        mc:Ignorable="d"
+        Title="InchesOrFeet" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <!--TextBlock-->
+        <TextBlock Text="Do you want your input in inches or feet?"
+                   FontSize="30" Height="60" Width="800"
+                   HorizontalAlignment="Center" VerticalAlignment="Top"
+                   TextAlignment="Center" Margin="0,90,0,0"/>
+
+        <!--Buttons-->
+        <Button Name="Inches" Content="Inches" Height="60" Width="120"
+                Click="Inches_Click" Margin="0,0,200,0" FontSize="20"/>
+        <Button Name="Feet" Content="Feet" Height="60" Width="120"
+                Click="Feet_Click" Margin="200,0,0,0" FontSize="20"/>
+    </Grid>
+</Window>

@@ -1,0 +1,27 @@
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\bin\Debug\netcoreapp3.1\BMI Calculator WPF.exe
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\bin\Debug\netcoreapp3.1\BMI Calculator WPF.deps.json
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\bin\Debug\netcoreapp3.1\BMI Calculator WPF.runtimeconfig.json
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\bin\Debug\netcoreapp3.1\BMI Calculator WPF.runtimeconfig.dev.json
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\bin\Debug\netcoreapp3.1\BMI Calculator WPF.dll
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\bin\Debug\netcoreapp3.1\BMI Calculator WPF.pdb
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\BMI Calculator WPF.csprojAssemblyReference.cache
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\MetricPage.g.cs
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\App.g.cs
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\BMI Calculator WPF_MarkupCompile.cache
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\BMI Calculator WPF_MarkupCompile.lref
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\MetricPage.baml
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\BMI Calculator WPF.g.resources
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\BMI Calculator WPF.AssemblyInfoInputs.cache
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\BMI Calculator WPF.AssemblyInfo.cs
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\BMI Calculator WPF.csproj.CoreCompileInputs.cache
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\BMI Calculator WPF.dll
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\BMI Calculator WPF.pdb
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\BMI Calculator WPF.genruntimeconfig.cache
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\Feet.g.cs
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\Inches.g.cs
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\InchesOrFeet.g.cs
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\Feet.baml
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\Inches.baml
+D:\OneDrive - EaDania\C#\Extra programming 1\BMI Calculator WPF\BMI Calculator WPF\obj\Debug\netcoreapp3.1\InchesOrFeet.baml

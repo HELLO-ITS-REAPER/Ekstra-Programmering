@@ -1,0 +1,13 @@
+D:\OneDrive - EaDania\C#\Extra programming 1\Soring Records\Soring Records\bin\Debug\netcoreapp3.1\Soring Records.exe
+D:\OneDrive - EaDania\C#\Extra programming 1\Soring Records\Soring Records\bin\Debug\netcoreapp3.1\Soring Records.deps.json
+D:\OneDrive - EaDania\C#\Extra programming 1\Soring Records\Soring Records\bin\Debug\netcoreapp3.1\Soring Records.runtimeconfig.json
+D:\OneDrive - EaDania\C#\Extra programming 1\Soring Records\Soring Records\bin\Debug\netcoreapp3.1\Soring Records.runtimeconfig.dev.json
+D:\OneDrive - EaDania\C#\Extra programming 1\Soring Records\Soring Records\bin\Debug\netcoreapp3.1\Soring Records.dll
+D:\OneDrive - EaDania\C#\Extra programming 1\Soring Records\Soring Records\bin\Debug\netcoreapp3.1\Soring Records.pdb
+D:\OneDrive - EaDania\C#\Extra programming 1\Soring Records\Soring Records\obj\Debug\netcoreapp3.1\Soring Records.csprojAssemblyReference.cache
+D:\OneDrive - EaDania\C#\Extra programming 1\Soring Records\Soring Records\obj\Debug\netcoreapp3.1\Soring Records.AssemblyInfoInputs.cache
+D:\OneDrive - EaDania\C#\Extra programming 1\Soring Records\Soring Records\obj\Debug\netcoreapp3.1\Soring Records.AssemblyInfo.cs
+D:\OneDrive - EaDania\C#\Extra programming 1\Soring Records\Soring Records\obj\Debug\netcoreapp3.1\Soring Records.csproj.CoreCompileInputs.cache
+D:\OneDrive - EaDania\C#\Extra programming 1\Soring Records\Soring Records\obj\Debug\netcoreapp3.1\Soring Records.dll
+D:\OneDrive - EaDania\C#\Extra programming 1\Soring Records\Soring Records\obj\Debug\netcoreapp3.1\Soring Records.pdb
+D:\OneDrive - EaDania\C#\Extra programming 1\Soring Records\Soring Records\obj\Debug\netcoreapp3.1\Soring Records.genruntimeconfig.cache

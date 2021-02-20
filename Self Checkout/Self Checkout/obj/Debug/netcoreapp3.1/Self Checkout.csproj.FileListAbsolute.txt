@@ -1,0 +1,13 @@
+D:\OneDrive - EaDania\C#\Extra programming 1\Self Checkout\Self Checkout\bin\Debug\netcoreapp3.1\Self Checkout.exe
+D:\OneDrive - EaDania\C#\Extra programming 1\Self Checkout\Self Checkout\bin\Debug\netcoreapp3.1\Self Checkout.deps.json
+D:\OneDrive - EaDania\C#\Extra programming 1\Self Checkout\Self Checkout\bin\Debug\netcoreapp3.1\Self Checkout.runtimeconfig.json
+D:\OneDrive - EaDania\C#\Extra programming 1\Self Checkout\Self Checkout\bin\Debug\netcoreapp3.1\Self Checkout.runtimeconfig.dev.json
+D:\OneDrive - EaDania\C#\Extra programming 1\Self Checkout\Self Checkout\bin\Debug\netcoreapp3.1\Self Checkout.dll
+D:\OneDrive - EaDania\C#\Extra programming 1\Self Checkout\Self Checkout\bin\Debug\netcoreapp3.1\Self Checkout.pdb
+D:\OneDrive - EaDania\C#\Extra programming 1\Self Checkout\Self Checkout\obj\Debug\netcoreapp3.1\Self Checkout.csprojAssemblyReference.cache
+D:\OneDrive - EaDania\C#\Extra programming 1\Self Checkout\Self Checkout\obj\Debug\netcoreapp3.1\Self Checkout.AssemblyInfoInputs.cache
+D:\OneDrive - EaDania\C#\Extra programming 1\Self Checkout\Self Checkout\obj\Debug\netcoreapp3.1\Self Checkout.AssemblyInfo.cs
+D:\OneDrive - EaDania\C#\Extra programming 1\Self Checkout\Self Checkout\obj\Debug\netcoreapp3.1\Self Checkout.csproj.CoreCompileInputs.cache
+D:\OneDrive - EaDania\C#\Extra programming 1\Self Checkout\Self Checkout\obj\Debug\netcoreapp3.1\Self Checkout.dll
+D:\OneDrive - EaDania\C#\Extra programming 1\Self Checkout\Self Checkout\obj\Debug\netcoreapp3.1\Self Checkout.pdb
+D:\OneDrive - EaDania\C#\Extra programming 1\Self Checkout\Self Checkout\obj\Debug\netcoreapp3.1\Self Checkout.genruntimeconfig.cache

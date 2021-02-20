@@ -1,0 +1,13 @@
+D:\OneDrive - EaDania\C#\Extra programming 1\Employee List Removal\Employee List Removal\bin\Debug\netcoreapp3.1\Employee List Removal.exe
+D:\OneDrive - EaDania\C#\Extra programming 1\Employee List Removal\Employee List Removal\bin\Debug\netcoreapp3.1\Employee List Removal.deps.json
+D:\OneDrive - EaDania\C#\Extra programming 1\Employee List Removal\Employee List Removal\bin\Debug\netcoreapp3.1\Employee List Removal.runtimeconfig.json
+D:\OneDrive - EaDania\C#\Extra programming 1\Employee List Removal\Employee List Removal\bin\Debug\netcoreapp3.1\Employee List Removal.runtimeconfig.dev.json
+D:\OneDrive - EaDania\C#\Extra programming 1\Employee List Removal\Employee List Removal\bin\Debug\netcoreapp3.1\Employee List Removal.dll
+D:\OneDrive - EaDania\C#\Extra programming 1\Employee List Removal\Employee List Removal\bin\Debug\netcoreapp3.1\Employee List Removal.pdb
+D:\OneDrive - EaDania\C#\Extra programming 1\Employee List Removal\Employee List Removal\obj\Debug\netcoreapp3.1\Employee List Removal.csprojAssemblyReference.cache
+D:\OneDrive - EaDania\C#\Extra programming 1\Employee List Removal\Employee List Removal\obj\Debug\netcoreapp3.1\Employee List Removal.AssemblyInfoInputs.cache
+D:\OneDrive - EaDania\C#\Extra programming 1\Employee List Removal\Employee List Removal\obj\Debug\netcoreapp3.1\Employee List Removal.AssemblyInfo.cs
+D:\OneDrive - EaDania\C#\Extra programming 1\Employee List Removal\Employee List Removal\obj\Debug\netcoreapp3.1\Employee List Removal.csproj.CoreCompileInputs.cache
+D:\OneDrive - EaDania\C#\Extra programming 1\Employee List Removal\Employee List Removal\obj\Debug\netcoreapp3.1\Employee List Removal.dll
+D:\OneDrive - EaDania\C#\Extra programming 1\Employee List Removal\Employee List Removal\obj\Debug\netcoreapp3.1\Employee List Removal.pdb
+D:\OneDrive - EaDania\C#\Extra programming 1\Employee List Removal\Employee List Removal\obj\Debug\netcoreapp3.1\Employee List Removal.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Determining Compound Interest", "Determining Compound Interest\Determining Compound Interest.csproj", "{403EA123-0DEE-4AFA-9C25-A532785FBB38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{403EA123-0DEE-4AFA-9C25-A532785FBB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403EA123-0DEE-4AFA-9C25-A532785FBB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403EA123-0DEE-4AFA-9C25-A532785FBB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403EA123-0DEE-4AFA-9C25-A532785FBB38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48764D9E-E597-4ECB-9397-7B50879A0705}
+	EndGlobalSection
+EndGlobal
