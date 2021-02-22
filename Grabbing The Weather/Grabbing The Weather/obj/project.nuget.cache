@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZoXT4wdMNfP7N1YmYqv7hWA18BX2IjcQ29OlUmmk0JU94Ykv8dyAYjek6sLSAzCMpHSysrrAj1fcagcnPE9LiA==",
+  "dgSpecHash": "0mDdCce4BOJ37Si0B3cJj0iu0pA4TkcQFaN7YSruwzR9d3wthoDs02LTvzyrAf1SpNkvFKomKpc4G+b8uXrNIw==",
   "success": true,
-  "projectFilePath": "D:\\OneDrive - EaDania\\C#\\Extra programming 1\\Grabbing The Weather\\Grabbing The Weather\\Grabbing The Weather.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\EkstraProgrammering\\Grabbing The Weather\\Grabbing The Weather\\Grabbing The Weather.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Martin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

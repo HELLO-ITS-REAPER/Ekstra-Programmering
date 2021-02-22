@@ -11,3 +11,18 @@ D:\OneDrive - EaDania\C#\Extra programming 1\Grabbing The Weather\Grabbing The W
 D:\OneDrive - EaDania\C#\Extra programming 1\Grabbing The Weather\Grabbing The Weather\obj\Debug\netcoreapp3.1\Grabbing The Weather.dll
 D:\OneDrive - EaDania\C#\Extra programming 1\Grabbing The Weather\Grabbing The Weather\obj\Debug\netcoreapp3.1\Grabbing The Weather.pdb
 D:\OneDrive - EaDania\C#\Extra programming 1\Grabbing The Weather\Grabbing The Weather\obj\Debug\netcoreapp3.1\Grabbing The Weather.genruntimeconfig.cache
+C:\EkstraProgrammering\Grabbing The Weather\Grabbing The Weather\bin\Debug\netcoreapp3.1\Grabbing The Weather.exe
+C:\EkstraProgrammering\Grabbing The Weather\Grabbing The Weather\bin\Debug\netcoreapp3.1\Grabbing The Weather.deps.json
+C:\EkstraProgrammering\Grabbing The Weather\Grabbing The Weather\bin\Debug\netcoreapp3.1\Grabbing The Weather.runtimeconfig.json
+C:\EkstraProgrammering\Grabbing The Weather\Grabbing The Weather\bin\Debug\netcoreapp3.1\Grabbing The Weather.runtimeconfig.dev.json
+C:\EkstraProgrammering\Grabbing The Weather\Grabbing The Weather\bin\Debug\netcoreapp3.1\Grabbing The Weather.dll
+C:\EkstraProgrammering\Grabbing The Weather\Grabbing The Weather\bin\Debug\netcoreapp3.1\Grabbing The Weather.pdb
+C:\EkstraProgrammering\Grabbing The Weather\Grabbing The Weather\obj\Debug\netcoreapp3.1\Grabbing The Weather.csprojAssemblyReference.cache
+C:\EkstraProgrammering\Grabbing The Weather\Grabbing The Weather\obj\Debug\netcoreapp3.1\Grabbing The Weather.AssemblyInfoInputs.cache
+C:\EkstraProgrammering\Grabbing The Weather\Grabbing The Weather\obj\Debug\netcoreapp3.1\Grabbing The Weather.AssemblyInfo.cs
+C:\EkstraProgrammering\Grabbing The Weather\Grabbing The Weather\obj\Debug\netcoreapp3.1\Grabbing The Weather.csproj.CoreCompileInputs.cache
+C:\EkstraProgrammering\Grabbing The Weather\Grabbing The Weather\obj\Debug\netcoreapp3.1\Grabbing The Weather.dll
+C:\EkstraProgrammering\Grabbing The Weather\Grabbing The Weather\obj\Debug\netcoreapp3.1\Grabbing The Weather.pdb
+C:\EkstraProgrammering\Grabbing The Weather\Grabbing The Weather\obj\Debug\netcoreapp3.1\Grabbing The Weather.genruntimeconfig.cache
+C:\EkstraProgrammering\Grabbing The Weather\Grabbing The Weather\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\EkstraProgrammering\Grabbing The Weather\Grabbing The Weather\obj\Debug\netcoreapp3.1\Grabbing The Weather.csproj.CopyComplete

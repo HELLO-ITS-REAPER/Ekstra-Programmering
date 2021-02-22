@@ -1,46 +1,28 @@
 ﻿using System;
-using System.IO;
 using System.Net;
+using System.Net.Http;
+using System.Threading.Tasks;
+using System.Xml.Linq;
+using System.Collections.Generic;
 using System.Text;
-using System.Threading;
 using System.Xml;
+using Newtonsoft.Json;
+using System.IO;
 
 namespace Grabbing_The_Weather
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
-            string url = "https://openweathermap.org/city/2613731";
+            Console.WriteLine("What city do you want the weather from?");
+            string city = Console.ReadLine();
+            string uri = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=017de5bb94b69748ca7201e46d9f4c5e&units=metric";
 
-            var dims = APIProcess(url);
-
-            Console.WriteLine(dims);
-
-            //StringBuilder sb = new StringBuilder();
-
-            //string[] ting = dims.Split("\n");
-
-            //foreach (var item in ting)
-            //{
-            //    Console.WriteLine(item);
-            //    Thread.Sleep(5000);
-            //}
-
+            HttpClient client = new HttpClient();
+            var request = await client.GetAsync("https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=017de5bb94b69748ca7201e46d9f4c5e&units=metric");
+            var response = request.Content.ReadAsStringAsync();
+            Console.Read();
         }
-
-        static dynamic APIProcess(string url)
-        {
-            var webRequest = WebRequest.Create(string.Format(@"{0}", url));
-
-            using (var response = webRequest.GetResponse())
-            using (var content = response.GetResponseStream())
-            using (var reader = new StreamReader(content))
-            {
-                return reader.ReadToEnd();
-            }
-
-        }
-
     }
 }
