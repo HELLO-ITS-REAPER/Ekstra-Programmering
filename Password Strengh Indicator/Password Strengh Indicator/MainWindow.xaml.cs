@@ -29,7 +29,6 @@ namespace Password_Strengh_Indicator
 
         private void CheckPassword_Click(object sender, RoutedEventArgs e)
         {
-            string total = Password.Password;
             char currentCharacter;
             int passwordLength = Password.Password.Length;
 
